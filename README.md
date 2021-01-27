@@ -1,1 +1,1 @@
-ALX zero-day repository containing project directories 0x00-vagrant and 0x01-emacs 0x03-git
+ALX zero-day repository containing project directories 0x00-vagrant and 0x01-emacs
